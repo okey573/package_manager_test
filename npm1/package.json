@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.2",
+    "element-plus": "^2.2.13"
+  }
+}

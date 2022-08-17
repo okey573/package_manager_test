@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ant-design-vue": "^3.2.11",
+    "dayjs": "^1.10.4",
+    "element-plus": "^2.2.13"
+  }
+}
